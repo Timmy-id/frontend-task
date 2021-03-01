@@ -6,7 +6,7 @@ body {
     background-size: contain;
     background-color: hsl(185, 75%, 39%);
     background-size: 800px, 800px;
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 p {
