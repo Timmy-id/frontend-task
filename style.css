@@ -97,14 +97,3 @@ p {
     margin-top: 140px;
   }
 }
-
-@media all and (max-width: 725px) {
-  body {
-    background-position: top -500px left -500px, bottom -600px right -600px;
-  }
-
-  .container {
-    width: 320px;
-    margin-top: 140px;
-  }
-}
